@@ -1,5 +1,6 @@
 .places__item {
     display: grid;
+    margin: auto;
     grid-template-columns: min-content 1fr;
     grid-template-rows: repeat(2, min-content);
     column-gap: 40px;

@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 80px;
-    margin: 0;
     padding: 0 148px;
     list-style: none;
 }
