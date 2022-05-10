@@ -5,5 +5,22 @@
     display: flex;
     justify-content: space-between;
     max-width: 100%;
-       
+    align-items: flex-end;
+
+}
+
+@media screen and (max-width: 768px) {
+    .header {
+        padding-top: 24px;
+        padding-left: 28px;
+        padding-right: 28px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header {
+        padding-top: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
 }
