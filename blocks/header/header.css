@@ -9,7 +9,7 @@
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .header {
         padding-top: 24px;
         padding-left: 28px;
@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .header {
         padding-top: 16px;
         padding-left: 16px;
