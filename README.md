@@ -15,6 +15,10 @@
 
 ![Превью сайта](/images/preview-for-readme.JPG)
 
+## **Ссылка на сайт**
+
+https://bellnettle.github.io/russian-travel/
+
 ## **Планы по доработке**
 
 * Сделать сайт более "резиновым"

@@ -1,12 +1,10 @@
-.places__website {
+.place__website {
     grid-area: website;
     align-self: end;
 }
 
 @media screen and (max-width: 767px) {
-    .places__website {
-        font-size: 32px;
-        line-height: 109%;
+    .place__website {
         margin: 0 16px;
     }
 
